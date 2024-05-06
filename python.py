@@ -5,3 +5,4 @@ b= ['Rahil', 'Shaikh']
 for i  in b:
     a.append(i)
     print(a)
+    #ljsldfjosaid
