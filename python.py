@@ -6,3 +6,4 @@ for i  in b:
     a.append(i)
     print(a)
     #ljsldfjosaid
+# this is again a new code
